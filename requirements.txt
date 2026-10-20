@@ -1,0 +1,20 @@
+# --- Driver Database Neo4j (wajib versi 5 ke atas; tutorial memakai execute_query) ---
+neo4j>=5.0.0
+
+# --- Manipulasi data dan matriks ---
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# --- Graf dan machine learning ---
+networkx>=3.0
+scikit-learn>=1.2.0
+
+# --- Visualisasi dan utilitas ---
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# --- Menjalankan notebook di VS Code ---
+ipykernel>=6.0.0
+ipython>=8.0.0
+jupyter>=1.0.0
